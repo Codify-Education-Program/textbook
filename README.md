@@ -29,6 +29,4 @@ It is a collection of short, reference-style chapters covering the core tools yo
 - Quick reference for syntax, and examples.  
 - Lightweight and easy to update — you’ll always see the latest version here.  
 
----
 
-👉 Start with [Chapter 1 — Git](./docs/chapter1-git.md) and work your way through!
